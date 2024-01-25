@@ -22,5 +22,5 @@ because there was no difference between model 3 and 2 i will just reference mode
 -  still had 100% precision determining safe loans while a slightly lower 84% finding unsafe ones
 -  There was significant gains in recall in regards to unsafe loans though at 98%
 
-Summar
-I think scaling the data performed better based on its accuracy and significantly higher recall. I think it is most important to find dangerous borrowers as they will take a majority of resources to handle and the business needs to be ready when they default
+Summary
+I think scaling the data performed better based on its accuracy and significantly higher recall. It is most important to find dangerous borrowers as they will take a majority of resources to handle and the business needs to be ready when they default
